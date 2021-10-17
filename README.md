@@ -1,4 +1,4 @@
-![](https://iili.io/5CJjn4.png)
+![](https://i.postimg.cc/3NWwFfmr/banner-8.png)
 
 ## 💻 what i'm currently up to 
 - 🌱 I’m learning **TypeScript**
