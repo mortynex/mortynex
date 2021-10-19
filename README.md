@@ -1,5 +1,5 @@
 ![](https://iili.io/5CJjn4.png)
-
+![](https://img.shields.io/badge/Typescript-blue?logo=typescript&labelColor=white) ![](https://komarev.com/ghpvc/?username=Mortynex&color=ff69b4)
 ## 💻 what i'm currently up to 
 - 🌱 I’m learning **TypeScript**
 - 👯 I’m looking to collaborate on **Typescript Projects**
