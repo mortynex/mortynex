@@ -1,1 +1,1 @@
-i code stuff
+typescript dev :)
