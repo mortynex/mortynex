@@ -1,1 +1,3 @@
-i code stuff
+fullstack typescript dev
+
+open for collaboration
