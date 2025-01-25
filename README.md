@@ -1,5 +1,3 @@
 fullstack typescript dev
 
-open for collaboration
-
-📩 martin@poltak.me
+martin@poltak.me
